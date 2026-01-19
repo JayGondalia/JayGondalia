@@ -1,5 +1,36 @@
-# 💫 About Me:
-🔭 **I’m currently working on**<br><br>* Full-stack web applications using **Angular, React, Vue, Node.js, and Laravel**<br>* Data-focused projects involving **Python, SQL, Power BI**, and APIs<br>* Small **data science experiments** around prediction, classification, and trend analysis<br><br>👯 **I’m looking to collaborate on**<br><br>* Open-source **web and data-driven applications**<br>* **Data analytics, automation, and AI-powered solutions**<br>* Projects that combine **software engineering with data science**<br><br>🤝 **I’m looking for help with**<br><br>* Designing **scalable systems** for data-heavy applications<br>* Improving **model performance and feature engineering** techniques<br>* Best practices for deploying data science models to production<br><br>🌱 **I’m currently learning**<br><br>* **Automation** using Python and workflow tools<br>* **Generative AI & LLMs**<br>* Practical **data science workflows** (EDA, feature engineering, model evaluation)<br>* Advanced **Azure data & AI services**<br><br>💬 **Ask me about**<br><br>* Full-stack development<br>* Python, SQL, Power BI<br>* **Data science fundamentals** (EDA, ML models, evaluation metrics)<br>* Turning raw data into actionable insights<br><br>⚡ **Fun fact**<br><br>* I enjoy experimenting with datasets just to see **what patterns emerge** 📊<br>* I’ve built end-to-end projects combining **APIs, dashboards, and ML models**<br>* Refactoring and optimizing code is oddly relaxing for me 😄
+## 💫 About Me
+
+🔭 **I’m currently working on**  
+- Full-stack web applications using **Angular, React, Vue, Node.js, and Laravel**  
+- Data-focused projects involving **Python, SQL, Power BI**, and APIs  
+- Small **data science experiments** around prediction, classification, and trend analysis  
+
+👯 **I’m looking to collaborate on**  
+- Open-source **web and data-driven applications**  
+- **Data analytics, automation, and AI-powered solutions**  
+- Projects that combine **software engineering with data science**  
+
+🤝 **I’m looking for help with**  
+- Designing **scalable systems** for data-heavy applications  
+- Improving **model performance and feature engineering** techniques  
+- Best practices for deploying data science models to production  
+
+🌱 **I’m currently learning**  
+- **Automation** using Python and workflow tools  
+- **Generative AI & LLMs** (Hugging Face, LangChain, OpenAI APIs, RAG)  
+- Practical **data science workflows** (EDA, feature engineering, model evaluation)  
+- Advanced **Azure data & AI services**  
+
+💬 **Ask me about**  
+- Full-stack development  
+- Python, SQL, Power BI  
+- **Data science fundamentals** (EDA, ML models, evaluation metrics)  
+- Turning raw data into actionable insights  
+
+⚡ **Fun fact**  
+- I enjoy experimenting with datasets just to see **what patterns emerge** 📊  
+- I’ve built end-to-end projects combining **APIs, dashboards, and ML models**  
+- Refactoring and optimizing code is oddly relaxing 😄  
 
 
 ## 🌐 Socials:
